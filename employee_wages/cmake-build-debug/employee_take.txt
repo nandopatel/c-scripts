@@ -1,0 +1,2 @@
+id    hours    wages    overtime hours    overtime rate    take    
+4    45       56       4                34               2656
